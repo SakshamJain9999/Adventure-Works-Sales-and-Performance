@@ -13,12 +13,19 @@ This project focuses on analyzing and optimizing sales and performance data for 
 
 ## Dashboard
 
-Explore the interactive sales and performance dashboard below:
+Here are the interactive sales and performance dashboards:
 
-[**View Dashboard - Page 1**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%201.png)  
-[**View Dashboard - Page 2**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%202.png)  
-[**View Dashboard - Page 3**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%203.png)  
-[**View Dashboard - Page 4**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%204.png)
+### Dashboard - Page 1
+![Dashboard Page 1](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%201.png)
+
+### Dashboard - Page 2
+![Dashboard Page 2](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%202.png)
+
+### Dashboard - Page 3
+![Dashboard Page 3](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%203.png)
+
+### Dashboard - Page 4
+![Dashboard Page 4](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%204.png)
 
 ## Technologies Used
 
@@ -28,5 +35,3 @@ Explore the interactive sales and performance dashboard below:
   - Used for data extraction and query optimization.
 - **Jupyter Notebooks**  
   - For exploratory data analysis and visualization.
-- **Tableau** (Optional)  
-  - For visual reporting and dashboard creation.
