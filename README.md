@@ -11,6 +11,15 @@ This project focuses on analyzing and optimizing sales and performance data for 
 - **Predictive Models**: Build predictive models to forecast sales based on various inputs.
 - **Reporting**: Generate comprehensive reports for key stakeholders.
 
+## Dashboard
+
+Explore the interactive sales and performance dashboard below:
+
+[**View Dashboard - Page 1**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%201.png)  
+[**View Dashboard - Page 2**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%202.png)  
+[**View Dashboard - Page 3**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%203.png)  
+[**View Dashboard - Page 4**](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%204.png)
+
 ## Technologies Used
 
 - **Python**  
