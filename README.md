@@ -30,7 +30,7 @@ Explore the interactive sales and performance dashboard below:
 ## View the Dashboard
 You can view the **Adventure-Works-Sales-and-Performance** dashboard on Power BI by visiting the following link:
 
-[View Dashboard on Power BI](https://www.novypro.com/create_project/adventure-works-sales-and-performance-dashboard-on-power-bi-3)
+[View Dashboard on Power BI](https://project.novypro.com/qdXLmO)
 
 ## Technologies Used
 
