@@ -27,6 +27,11 @@ Explore the interactive sales and performance dashboard below:
 ### Customer Details
 ![Customer Details](https://github.com/SakshamJain9999/Adventure-Works-Sales-and-Performance/blob/main/Dashboard/DashBoard%20Page%204.png)
 
+## View the Dashboard
+You can view the **Adventure-Works-Sales-and-Performance** dashboard on Power BI by visiting the following link:
+
+[View Dashboard on Power BI](https://www.novypro.com/create_project/adventure-works-sales-and-performance-dashboard-on-power-bi-3)
+
 ## Technologies Used
 
 - **Python**  
@@ -37,3 +42,4 @@ Explore the interactive sales and performance dashboard below:
   - For exploratory data analysis and visualization.
 - **Power BI**  
   - Used for interactive visualizations and creating business intelligence reports and dashboards.
+  
